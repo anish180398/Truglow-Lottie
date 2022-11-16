@@ -2,9 +2,6 @@
   "name": "truglow",
   "version": "1.0.0",
   "description": "",
-  "engines": {
-    "node": "16.16.0"
-  },
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
