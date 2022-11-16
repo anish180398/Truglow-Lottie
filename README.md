@@ -1,2 +1,2 @@
-# newTru
-Created with CodeSandbox
+# TruglowLottie
+
