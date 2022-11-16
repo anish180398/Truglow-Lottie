@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import "./styles.css";
 import lottie from "lottie-web";
 import animationData from "./truglow.json";
@@ -9,7 +9,7 @@ const LottieControl = () => {
   React.useEffect(() => {
     var animDuration = 10000;
     const anim = lottie.loadAnimation({
-      container: lottieRef.current!,
+      container: lottieRef.current,
       renderer: "svg",
       loop: false,
       autoplay: false,
